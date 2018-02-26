@@ -1,0 +1,10 @@
+.idea
+
+bin/
+blender/
+build/
+cmake-build-debug/
+
+docs/html/
+
+nanosuit.obj

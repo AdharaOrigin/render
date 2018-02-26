@@ -1,0 +1,17 @@
+# The header is meant for users of the code. So in there I document the interface: how to use it, preconditions and postconditions, etcetera.
+# The .c file is for maintainers. In there, I document the implementation: how things work internally, and why they work that way.
+
+OUTPUT_DIRECTORY = /home/head/Development/Render/docs
+
+# EXTRACT_ALL = yes
+EXTRACT_PRIVATE = yes
+# EXTRACT_STATIC = yes
+
+INPUT = /home/head/Development/Render/src
+INPUT += /home/head/Development/Render/docs
+USE_MDFILE_AS_MAINPAGE = README.md
+FILE_PATTERNS = 
+
+GENERATE_LATEX = No
+# LATEX_OUTPUT = LaTeX_Dir
+RECURSIVE = yes
