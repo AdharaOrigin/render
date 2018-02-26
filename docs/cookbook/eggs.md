@@ -1,18 +1,18 @@
-Rusty Cookbook
-==============
+# Rusty Cookbook
 
 This is good old rusty cookbook.
 
-Scrambled eggs
---------------
-You'll need:
+## Scrambled eggs
+These are sooo good.
+
+### You'll need
 
 - 4	EGGS
 - 1/4 cup	milk
 - salt and pepper, as desired
 - 2 tsp.	butter
 
-To cook this wierd stuff perform:
+### Steps
 
 1. BEAT eggs, milk, salt and pepper in medium bowl until blended.
 
